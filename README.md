@@ -22,6 +22,9 @@ Install mongodb, clone the repository to the local hard drive, run npm install, 
 ## Usage
 This is a backend for the front end of a make-believe social network site.  By ustilizing different api routes, the front end would be able to access and manipulate information in the database.
 
+### Video Walkthrough
+https://drive.google.com/file/d/1n70xhRYnCWGpOJPMQTZvmCf5Gqy-DOlM/view
+
 ## License
 MIT License
 
